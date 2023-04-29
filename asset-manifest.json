@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/cats_feeders/static/js/main.2636be15.js",
-    "static/js/39.1b978cb2.js": "/cats_feeders/static/js/39.1b978cb2.js",
+    "main.js": "/cats_feeders/static/js/main.84d524ec.js",
+    "static/js/766.9a8c0e87.js": "/cats_feeders/static/js/766.9a8c0e87.js",
     "favicon.ico": "/cats_feeders/favicon.ico",
     "index.html": "/cats_feeders/index.html",
     "favicon-32.png": "/cats_feeders/favicon-32.png",
     "favicon-16.png": "/cats_feeders/favicon-16.png",
     "manifest.json": "/cats_feeders/manifest.json",
     "serve.json": "/cats_feeders/serve.json",
-    "main.2636be15.js.map": "/cats_feeders/static/js/main.2636be15.js.map",
-    "39.1b978cb2.js.map": "/cats_feeders/static/js/39.1b978cb2.js.map"
+    "main.84d524ec.js.map": "/cats_feeders/static/js/main.84d524ec.js.map",
+    "766.9a8c0e87.js.map": "/cats_feeders/static/js/766.9a8c0e87.js.map"
   },
   "entrypoints": [
-    "static/js/39.1b978cb2.js",
-    "static/js/main.2636be15.js"
+    "static/js/766.9a8c0e87.js",
+    "static/js/main.84d524ec.js"
   ]
 }
